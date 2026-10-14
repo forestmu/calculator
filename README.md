@@ -1,2 +1,4 @@
 # calculator
-to practice &amp; challenge to code with as little AI as possible
+Starting off as a very basic and simple calculator
+Aim to make it a scientific calculator eventually
+Then make designs
